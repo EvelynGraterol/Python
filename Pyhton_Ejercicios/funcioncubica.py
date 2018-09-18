@@ -1,5 +1,6 @@
 #Funcion Cubica
 #Importamos todos los modulos necesarios
+#esto es una prueba para verificar que funciona GIT
 import math
 import numpy as np
 from matplotlib import pyplot as plt
