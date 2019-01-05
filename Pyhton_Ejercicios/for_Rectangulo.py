@@ -4,7 +4,7 @@
 ancho = int(input("Ingrese el ancho del rectangulo: "))
 alto = int(input("Ingrese el alto del rectangulo: "))
 
-for i in  range(alto):
+for i in  range(alto):#El rango corre dentro del valor dado
     for i in range(ancho):
         print('*',end="")
     print()
