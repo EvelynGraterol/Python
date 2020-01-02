@@ -1,5 +1,6 @@
 #Con la funcion range(que inicia en 0) yo puedo establecer el inicio, el final
 #y el step
+#Cada for debe ser expedito de nuevo
 
 chars = ['A','B','C'] #Lista
 fruit = ('Apple','Banana','Cherry')#Tupla(No pueden ser manipulados sus datos)
