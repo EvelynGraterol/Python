@@ -1,3 +1,4 @@
+#Aplicación de condicionales
 nil=0
 num=0
 max=1
